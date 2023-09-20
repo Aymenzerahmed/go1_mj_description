@@ -7,4 +7,4 @@ Feel free to test it & give feedback to improve it.
 
 PD-Gains
 --
-The PD-Gains values that appear in `./pdgains/go1_mj_description` are tuned manually by observing multiple `mujoco` simulations, They can be tuned to have more near-to-reality behavior.
+The PD-Gains values in `./pdgains/PDgains_sim.dat` are tuned manually by observing multiple `mujoco` simulations; they can be adjusted to have more near-to-reality behavior.
