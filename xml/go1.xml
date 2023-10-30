@@ -171,7 +171,7 @@
     </actuator>
     <sensor>
         <!-- imu -->
-        <gyro name="go1_Accelerometer_gyro" site="Gyro" />
-        <accelerometer name="go1_Accelerometer_accelerometer" site="Gyro" />
+        <gyro name="Accelerometer_gyro" site="Gyro" />
+        <accelerometer name="Accelerometer_accelerometer" site="Gyro" />
     </sensor>
 </mujoco>
